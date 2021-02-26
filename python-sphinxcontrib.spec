@@ -7,7 +7,7 @@ Summary:	Namespace for Python 2 sphinxcontrib.* packages
 Summary(pl.UTF-8):	Przestrzeń nazw dla pakietów Pythona 2 sphinxcontrib.*
 Name:		python-sphinxcontrib
 Version:	0
-Release:	2
+Release:	3
 Group:		Libraries/Python
 # Only code is sourced from http://www.python.org/dev/peps/pep-0382/
 License:	Public Domain
